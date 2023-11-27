@@ -272,3 +272,27 @@
 20231118	13:50:30	60a65814-aede-4f2f-81cb-73ff570ccc6b	(401) UnauthorizedError: Acesso não autorizado!
 20231118	13:51:07	98c70391-437b-45d4-ac91-3dd05cec196e	(401) UnauthorizedError: Acesso não autorizado!
 20231118	14:59:44	d23e00aa-85a3-4154-86ce-a1d1b865bda5	(403) ForbiddenError: Acesso proibido!
+20231127	12:51:45	f7e84185-64e5-4635-9f42-f1acbd4c02df	(409) ConflictError: Nome já utilizado
+20231127	12:52:37	9967d9c6-c66e-4629-ad3a-d703dd328ce0	(undefined) ReferenceError: generateAuthToken is not defined
+20231127	12:52:52	31e55dfe-3308-41e3-a894-58456c7496bf	(undefined) ReferenceError: generateAuthToken is not defined
+20231127	12:53:00	4dc9b99e-dd75-4902-b558-2e67168bcd1a	(undefined) ReferenceError: generateAuthToken is not defined
+20231127	12:56:57	6fa3a743-a5f8-42ad-9090-6c593df19e75	(undefined) ReferenceError: generateAuthToken is not defined
+20231127	12:57:35	b8f3a779-6824-42a0-a69d-ca774273e094	(undefined) Error: secretOrPrivateKey must have a value
+20231127	12:57:41	af61eb6f-ffc8-44a2-876e-a498ccbc649a	(undefined) Error: secretOrPrivateKey must have a value
+20231127	12:58:02	968863a2-9b2a-4199-af3b-299ee6603083	(undefined) Error: secretOrPrivateKey must have a value
+20231127	12:58:41	9ea45281-ef34-4ecc-adb5-4228825ca14c	(undefined) Error: secretOrPrivateKey must have a value
+20231127	13:00:06	3d03b1c7-c348-46a3-99c0-8deadf853064	(undefined) Error: invalid expiresIn option for string payload
+20231127	13:00:37	1c6f987f-223d-42fd-8a99-32e3a8ee23ae	(undefined) Error: invalid expiresIn option for string payload
+20231127	13:00:40	95e551a8-9c04-403c-9a8a-8423181a460b	(undefined) Error: invalid expiresIn option for string payload
+20231127	13:02:41	41f009e9-5166-479a-8845-736a81ead485	(undefined) Error: invalid expiresIn option for string payload
+20231127	13:03:05	9b164f28-2cd9-49f1-a8d5-658f27ccd5eb	(undefined) Error: invalid expiresIn option for string payload
+20231127	13:03:15	c6fe3f72-fd91-4a8e-b5a0-0b30a20e31c4	(undefined) Error: invalid expiresIn option for string payload
+20231127	13:03:33	9f8bb4cc-aee3-49f8-93dd-b5c3652bea41	(undefined) Error: invalid expiresIn option for string payload
+20231127	13:04:08	c5630e63-8c5c-4d71-9b71-321098841428	(undefined) Error: invalid expiresIn option for string payload
+20231127	13:04:11	0879b184-82b0-4241-a548-fee5539d9c17	(undefined) Error: invalid expiresIn option for string payload
+20231127	13:05:04	8169cfa3-157a-4208-870a-84bab564a6e5	(undefined) Error: invalid expiresIn option for string payload
+20231127	13:06:51	5404a544-06e1-470a-9fef-6f5d6c673dd3	(undefined) Error: invalid expiresIn option for string payload
+20231127	13:12:20	9dbe844d-39c2-48f1-98f9-51a00f59e545	(undefined) Error: invalid expiresIn option for string payload
+20231127	13:13:32	5d389794-a382-46e4-8baa-6851cbb0ddfd	(undefined) ValidationError: User validation failed: refreshToken: Cast to string failed for value "[
+  'eyJhbGciOiJIUzI1NiJ9.JDJiJDExJEgzckhGMlo1SFQvVVFBTEpVcEtCbHUucU9PREU5LkdxaktYNlpwNHVkbFNDcER5L1dBYjdl.0pH1haQ7-mFifBfGkCkybCyRLeuv0nK_NxhUcPZvB8o'
+]" (type Array) at path "refreshToken"

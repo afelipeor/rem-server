@@ -1,2 +1,5 @@
 node_modules
 .env
+events
+events/errLog.txt
+events/reqLog.txt
